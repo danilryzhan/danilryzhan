@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Danil, a 21 years old web developer from Ukrain.
+I'm Danil, a 21 years old web developer from Ukraine.
 
 
 
