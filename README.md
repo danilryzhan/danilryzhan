@@ -3,17 +3,17 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
+I'm Danil, a 21 years old web developer from Hungary.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+
+- 👥 Core team member at SSMart
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 TypeScript, JavaScript, C#
+- ⚙️ React
+- 👁️ SASS, CSS
+- 💽 MsSQL, SQL
 
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
